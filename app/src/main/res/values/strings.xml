@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Two Activities</string>
+    <string name="addItem">Add Item</string>
+    <string name="item1">Milk</string>
+    <string name="item2">Toothpaste</string>
+    <string name="item3">Rice</string>
+    <string name="item4">Tissue</string>
+    <string name="item5">Tea</string>
+    <string name="item6">Fruits</string>
+    <string name="item7">"Scissors "</string>
+    <string name="item8">Cheese</string>
+    <string name="item9">Pens</string>
+    <string name="item10">Nails</string>
 </resources>
