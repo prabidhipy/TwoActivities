@@ -10,149 +10,139 @@
         android:id="@+id/item1"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="@string/item1"
+        android:onClick="launchFirstActivity"
         android:layout_marginStart="16dp"
-        android:layout_marginEnd="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:text="@string/item1"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/item10"
-        android:onClick="launchFirstActivity"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/item2"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginEnd="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:onClick="launchFirstActivity"
         android:text="@string/item2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/item1"
-        android:onClick="launchFirstActivity"/>
+        app:layout_constraintTop_toBottomOf="@+id/item1" />
 
     <Button
         android:id="@+id/item3"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginEnd="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:onClick="launchFirstActivity"
         android:text="@string/item3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/item2"
-        android:onClick="launchFirstActivity"/>
+        app:layout_constraintTop_toBottomOf="@+id/item2" />
 
     <Button
         android:id="@+id/item4"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginEnd="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:onClick="launchFirstActivity"
         android:text="@string/item4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/item3"
-        android:onClick="launchFirstActivity"/>
+        app:layout_constraintTop_toBottomOf="@+id/item3" />
 
     <Button
         android:id="@+id/item5"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginEnd="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:onClick="launchFirstActivity"
         android:text="@string/item5"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/item4"
-        android:onClick="launchFirstActivity"/>
+        app:layout_constraintTop_toBottomOf="@+id/item4" />
 
     <Button
         android:id="@+id/item6"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginEnd="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:onClick="launchFirstActivity"
         android:text="@string/item6"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/item5"
-        android:onClick="launchFirstActivity"/>
+        app:layout_constraintTop_toBottomOf="@+id/item5" />
 
     <Button
         android:id="@+id/item7"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginEnd="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:onClick="launchFirstActivity"
         android:text="@string/item7"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/item6"
-        android:onClick="launchFirstActivity"/>
+        app:layout_constraintTop_toBottomOf="@+id/item6" />
 
     <Button
         android:id="@+id/item8"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginEnd="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:onClick="launchFirstActivity"
         android:text="@string/item8"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/item7"
-        android:onClick="launchFirstActivity" />
+        app:layout_constraintTop_toBottomOf="@+id/item7" />
 
     <Button
         android:id="@+id/item9"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginEnd="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:onClick="launchFirstActivity"
         android:text="@string/item9"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/item8"
-        android:onClick="launchFirstActivity"/>
+        app:layout_constraintTop_toBottomOf="@+id/item8" />
 
     <Button
         android:id="@+id/item10"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginEnd="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:onClick="launchFirstActivity"
         android:text="@string/item10"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        android:onClick="launchFirstActivity"/>
+        app:layout_constraintTop_toBottomOf="@+id/item9" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
